@@ -1,9 +1,9 @@
 # DiscordBot
 Starting a Discord  Bot!
 
-## Restarting Progress
+## Progress Tracker
 
-Restarting my progress with the bot. newest patch:
+Keeping track of my progress with the bot. newest patch:
 
 ### 1.12.26
 - restarted project to work via pycord
